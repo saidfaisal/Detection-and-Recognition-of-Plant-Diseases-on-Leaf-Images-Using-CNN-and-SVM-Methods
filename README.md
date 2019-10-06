@@ -13,7 +13,7 @@ In this study, a system was built to determine disease and provide information i
 
 The test was carried out with 200 sample images of tomato leaves, 160 images as training data and 40 images as test data. The test results show the CNN method has an average percentage accuracy of 97.5%, precision 95.45%, recall 95% and error 5%. Whereas SVM produces an average accuracy of 95%, precision 90.83%, recall 90% and error 10%. From the test results, it can be stated that in this study CNN is a better classifier than SVM.
 
-## Links
+## Links (Research Purpose Only)
 * https://www.dropbox.com/s/tva49skiutv2u75/Program%20-%20Tugas%20Akhir%20%28password%20needed%29.zip?dl=0 - (Project - Password Needed)
 * https://www.dropbox.com/s/xrrhyjh9e9oh96w/journal.pdf?dl=0 - (Journal)
 
