@@ -1,6 +1,7 @@
 ---
 Platforms: Python + PyQt5
 Author: saidfaisal
+Email: saidfaisal777@gmail.com
 ---
 
 # Detection and Recognition of Plant Diseases on Leaf Images Using CNN and SVM Methods
