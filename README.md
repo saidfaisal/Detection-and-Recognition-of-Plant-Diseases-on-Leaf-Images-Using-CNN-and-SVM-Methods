@@ -10,9 +10,7 @@ The test was carried out with 200 sample images of tomato leaves, 160 images as 
 
 ## Screenshots
 ![cnn-program](https://user-images.githubusercontent.com/28735519/66263034-7b799180-e816-11e9-9e29-ebb91fa47a0c.gif)
-
 ![svm-program](https://user-images.githubusercontent.com/28735519/66263035-8502f980-e816-11e9-9d7f-225f7c42af72.gif)
-
 ![Hasil](https://user-images.githubusercontent.com/28735519/66263037-8d5b3480-e816-11e9-82ef-30e9bb146f84.PNG)
 
 
